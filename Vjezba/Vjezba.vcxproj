@@ -133,7 +133,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Air.cpp" />
+    <ClCompile Include="Alien.cpp" />
     <ClCompile Include="App.cpp" />
+    <ClCompile Include="Earth.cpp" />
+    <ClCompile Include="Singleton.cpp" />
+    <ClCompile Include="Water.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Air.h" />
+    <ClInclude Include="Alien.h" />
+    <ClInclude Include="Earth.h" />
+    <ClInclude Include="Singleton.h" />
+    <ClInclude Include="Water.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
