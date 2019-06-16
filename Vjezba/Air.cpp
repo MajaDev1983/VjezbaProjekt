@@ -4,6 +4,7 @@
 
 Air::Air()
 {
+	typeAlien("Air");
 }
 
 

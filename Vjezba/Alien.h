@@ -2,9 +2,6 @@
 #define ALIEN_H
 #include <iostream>
 #include <string>
-#include "Air.h"
-#include "Earth.h"
-#include "Water.h"
 
 class Alien
 {

@@ -4,9 +4,11 @@
 
 Earth::Earth()
 {
+	typeAlien("Earth");
 }
 
 
 Earth::~Earth()
 {
 }
+

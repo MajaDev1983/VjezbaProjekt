@@ -4,6 +4,7 @@
 
 Water::Water()
 {
+	typeAlien("Water");
 }
 
 
