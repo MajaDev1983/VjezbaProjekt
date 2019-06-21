@@ -7,6 +7,7 @@ class Earth : public Alien
 public:
 	Earth();
 	~Earth();
+	void printFunction();
 };
 
 #endif

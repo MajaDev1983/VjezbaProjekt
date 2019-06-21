@@ -4,10 +4,13 @@
 
 Water::Water()
 {
-	typeAlien("Water");
 }
-
 
 Water::~Water()
 {
+}
+
+void Water::printFunction()
+{
+	std::cout << "Ja sam vodeni alien!!" << std::endl;
 }

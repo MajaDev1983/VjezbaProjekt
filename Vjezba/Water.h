@@ -7,6 +7,7 @@ class Water : public Alien
 public:
 	Water();
 	~Water();
+	void printFunction();
 };
 
 #endif

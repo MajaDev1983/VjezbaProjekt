@@ -6,8 +6,7 @@ Singleton::Singleton()
 {
 }
 
-
-Singleton * Singleton::getInstance()
+Singleton* Singleton::getInstance()
 {
 	if (instance == nullptr)
 	{

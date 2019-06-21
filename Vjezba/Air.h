@@ -7,6 +7,7 @@ class Air : public Alien
 public:
 	Air();
 	~Air();
+	void printFunction();
 };
 
 #endif // !AIR_H

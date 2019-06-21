@@ -8,6 +8,7 @@ class Alien
 public:
 
 	static Alien* typeAlien(std::string type);
+	virtual void printFunction() = 0;
 	Alien();
 	~Alien();
 };
