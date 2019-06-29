@@ -3,6 +3,8 @@
 #include "Singleton.h"
 #include "Alien.h"
 
+//sourcemaking.com --> razni dizajn patterni
+
 int main()
 {
 	Singleton* s = Singleton::getInstance();
